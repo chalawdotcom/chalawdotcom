@@ -54,11 +54,11 @@ and built on a rule I care about: **the numbers are computed in SQL, the LLMs on
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chalawdotcom&show_icons=true&hide_border=true&theme=default&title_color=5047eb&icon_color=5047eb&count_private=true" height="160" alt="GitHub stats" />
+  <img src="profile/stats.svg" height="160" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chalawdotcom&hide_border=true&ring=5047eb&fire=5047eb&currStreakLabel=5047eb" height="160" alt="Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalawdotcom&layout=compact&hide_border=true&title_color=5047eb" height="140" alt="Top languages" />
+  <img src="profile/top-langs.svg" height="140" alt="Top languages" />
 </p>
 
 <picture>
